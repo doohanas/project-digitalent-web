@@ -160,10 +160,7 @@ footer img {
   background-image: url(img/doohanas.jpg);
   animation: slider 25s infinite linear;
 
-  border-radius: 50%;
-  background-image: url(img/gilang.jpg);
-  animation: slider 25s infinite linear;
-}
+ }
 
 .photos:hover {
   opacity: 0.8;
